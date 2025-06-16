@@ -166,4 +166,9 @@ div button {
     .gridtfoot1 {
         grid-template-columns: 1fr;
     }
+
+    .prim {
+        width: 100%;
+        height: 180px;
+    }
 }
