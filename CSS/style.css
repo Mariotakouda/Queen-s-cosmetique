@@ -147,7 +147,7 @@ div button {
     background-color: rgb(197, 124, 133);
 }
 
-@media (max-width: 460px) {
+@media (max-width: 480px) {
     body  {
         grid-template-columns: 1fr;
     }
@@ -188,10 +188,10 @@ div button {
 
     .rotation {
         width:  40vh;
-        margin-left: 43px;
+        margin-left: 70px;
     }
 
     header nav ul li a  {
-        margin-left:20px;
+        margin-left:10px;
     }
 }
