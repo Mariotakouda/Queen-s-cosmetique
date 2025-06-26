@@ -147,7 +147,7 @@ div button {
     background-color: rgb(197, 124, 133);
 }
 
-@media (max-width: 480px) {
+@media (max-width: 460px) {
     body  {
         grid-template-columns: 1fr;
     }
@@ -184,5 +184,14 @@ div button {
 
     .prim img {
         height: 350px;
+    }
+
+    .rotation {
+        width:  40vh;
+        margin-left: 43px;
+    }
+
+    header nav ul li a  {
+        margin-left:20px;
     }
 }
